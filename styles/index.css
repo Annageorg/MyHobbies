@@ -50,7 +50,7 @@ nav{
     font-size: x-large;
     font-weight:800;
     text-align: left;
-
+    /* padding: 20px; */
     color: black;
     width: 80%;
     display: flex;
@@ -71,5 +71,5 @@ footer{
     color: white;
 }
 .marLeft{
-    margin-left: 50px;
+    margin-left: 20px;
 }
