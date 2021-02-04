@@ -30,11 +30,11 @@ main{
     font-size: x-large;
 }
 #intro{
-    background-color: magenta;    
+    background-color: rgb(180, 178, 178, 0.5);    
     padding: 50px;
 }
 #topOne{
-    background-color: yellow;
+    background-color: rgb(219, 219, 28, 0.4);
     padding: 50px;
 }
 #topTwo{
