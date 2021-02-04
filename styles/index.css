@@ -24,7 +24,7 @@ font-size: xx-large;
     border-radius: 50%;
 }
 #title{
-    background-color: rgb(28, 202, 202, 0.75);
+    background-color: rgba(84, 184, 184, 0.75);
     width: 80%;
     display: flex;
     align-items: center;
@@ -69,5 +69,7 @@ footer{
     /* justify-content: flex-end; */
     background-color: rgb(36, 35, 35, 0.9);
     color: white;
-    padding-left: 100px;
+}
+.marLeft{
+    margin-left: 50px;
 }
